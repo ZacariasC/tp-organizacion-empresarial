@@ -1,0 +1,8 @@
+Ventas totales: 250000
+
+Ventas por producto:
+producto
+Monitor    120000
+Mouse       40000
+Teclado     90000
+Name: total, dtype: int64
