@@ -24,7 +24,15 @@ scripts/
 - Calcula ventas totales
 - Genera un gráfico de ventas por producto
 - Crea un archivo resumen con los resultados
-  
+
+## Cómo ejecutar el script
+1. Clonar el repositorio
+2. Abrir el proyecto en Google Colab o Python
+3. Ejecutar el script de análisis de datos
+4. El programa leerá el archivo CSV y generará:
+   - un gráfico de ventas
+   - un archivo resumen con los resultados
+   
 ## Archivos generados
 - ventas.csv
 - grafico_ventas.png
